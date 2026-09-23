@@ -1,0 +1,29 @@
+madden_release_year,cover_athlete,team_on_cover,position,next_nfl_season,games_played,key_stat_line,what_happened,season_summary,outcome_category,curse_event_flag,games_missed
+2001,Eddie George,Tennessee Titans,RB,2001,16,"939 rushing yards, 5 TD","No major injury; production dropped sharply from 1,509 yards in 2000",Rushing production fell 38%; still played all 16 games,Decline,0,1
+2002,Daunte Culpepper,Minnesota Vikings,QB,2002,11,"2,612 pass yards, 18 TD, 23 INT",Missed 5 games with a knee injury,Major statistical decline and missed time,Injury + decline,1,6
+2003,Marshall Faulk,St. Louis Rams,RB,2003,11,"818 rushing yards, 10 TD; 290 receiving yards",Missed 5 games,Reduced workload and missed time after a dominant 2001 season,Injury + decline,1,6
+2004,Michael Vick,Atlanta Falcons,QB,2004,15,"2,313 pass yards, 14 TD; 902 rush yards, 6 TD",No major injury,Strong rushing season but passing efficiency remained uneven,Mixed,0,2
+2005,Ray Lewis,Baltimore Ravens,LB,2005,15,"88 tackles, 3.5 sacks",Missed 1 game,Productive season; Ravens missed playoffs,Mixed,0,2
+2006,Donovan McNabb,Philadelphia Eagles,QB,2006,10,"2,542 pass yards, 18 TD, 6 INT",Season-ending ACL injury,Lost final 6 games to knee injury,Injury,1,7
+2007,Shaun Alexander,Seattle Seahawks,RB,2007,10,"716 rushing yards, 4 TD",Missed 6 games with injuries,"Large drop from 1,880-yard 2005 season and missed time",Injury + decline,1,7
+2008,Vince Young,Tennessee Titans,QB,2008,3,"219 pass yards, 1 TD, 2 INT",Missed most of season; injured quadriceps/leg early,Lost starting job to Kerry Collins after opening-week injury,Injury + benching,1,14
+2009,Brett Favre,Green Bay Packers / New York Jets,QB,2009,16,"4,202 pass yards, 33 TD, 7 INT",No major injury,Excellent individual season; changed teams after 2008,Strong season,0,1
+2010,Troy Polamalu,Pittsburgh Steelers,S,2010,14,"63 tackles, 1 INT",Missed 2 games,Productive season; Steelers reached Super Bowl,Strong season,0,3
+2010,Larry Fitzgerald,Arizona Cardinals,WR,2010,16,"90 receptions, 1,137 yards, 6 TD",No major injury,Strong individual production despite Cardinals' decline,Strong individual season,0,1
+2011,Drew Brees,New Orleans Saints,QB,2011,16,"5,476 pass yards, 46 TD",No major injury,Record-setting season; Saints won NFC South,Strong season,0,1
+2012,Peyton Hillis,Cleveland Browns,RB,2012,15,"309 rushing yards, 1 TD",Missed 1 game,"After 1,177-yard 2010 breakout and contract dispute, role diminished dramatically",Major decline,1,2
+2013,Calvin Johnson,Detroit Lions,WR,2013,14,"1,492 receiving yards, 12 TD",Missed 2 games,Elite production despite missing time,Strong season,0,3
+2014,Barry Sanders,Detroit Lions,RB,2014,0,Retired; no NFL statistics,Retired long before 2014,Madden NFL 25 used Sanders as a legacy cover athlete,Retired,0,17
+2014,Adrian Peterson,Minnesota Vikings,RB,2014,1,"21 rushing attempts, 75 yards",Suspended after one game,Placed on commissioner's exempt list and later suspended following child-injury case,Suspension,1,16
+2015,Richard Sherman,Seattle Seahawks,CB,2015,16,"2 INT, 14 passes defended",No major injury,Continued as an elite starting corner; Seahawks returned to playoffs,Strong season,0,1
+2016,Odell Beckham Jr.,New York Giants,WR,2016,16,"101 receptions, 1,367 yards, 10 TD",No major injury,Another elite receiving season; Giants made playoffs,Strong season,0,1
+2017,Rob Gronkowski,New England Patriots,TE,2017,14,"69 receptions, 1,084 yards, 8 TD",Missed 2 games,Strong season; Patriots reached Super Bowl,Strong season,0,3
+2018,Tom Brady,New England Patriots,QB,2018,16,"4,355 pass yards, 29 TD, 11 INT",No major injury,Won another Super Bowl with New England,Strong season,0,1
+2019,Antonio Brown,Pittsburgh Steelers,WR,2019,1,"4 receptions, 56 yards",Released after offseason incidents; played one game for Patriots,Major off-field disruption ended his season,Off-field + decline,1,16
+2020,Patrick Mahomes,Kansas City Chiefs,QB,2020,15,"4,740 pass yards, 38 TD, 6 INT",No major injury,Won AFC and returned to Super Bowl,Strong season,0,2
+2021,Lamar Jackson,Baltimore Ravens,QB,2021,12,"2,882 pass yards, 16 TD; 767 rush yards, 2 TD",Missed final 4 games with ankle injury,Baltimore missed playoffs after late-season collapse,Injury + team decline,1,5
+2022,Tom Brady,Tampa Bay Buccaneers,QB,2022,17,"4,694 pass yards, 25 TD, 9 INT",No major injury,Led Buccaneers to NFC South title,Strong individual season,0,0
+2022,Patrick Mahomes,Kansas City Chiefs,QB,2022,17,"5,250 pass yards, 41 TD",No major injury,Won MVP and Super Bowl,Strong season,0,0
+2023,John Madden,Tribute cover,Coach,2023,0,N/A,N/A,Legacy/tribute cover rather than an active-player curse case,Not applicable,0,17
+2024,Josh Allen,Buffalo Bills,QB,2024,17,"3,731 pass yards, 28 TD, 18 INT; 531 rush yards, 12 rush TD",No major injury,Led Buffalo to AFC East title and AFC Championship Game,Strong team season,0,0
+2025,Christian McCaffrey,San Francisco 49ers,RB,2025,17,"1,202 rushing yards, 13 TD; 58 receptions, 468 yards",No major injury,Returned to a full season and remained a major offensive contributor,Strong season,0,0
